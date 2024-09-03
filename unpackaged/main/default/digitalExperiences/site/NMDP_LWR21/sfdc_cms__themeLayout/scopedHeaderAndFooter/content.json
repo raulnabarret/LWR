@@ -20,6 +20,14 @@
             "sectionVerticalAlign" : "flex-start"
           },
           "children" : [ {
+            "children" : [ {
+              "attributes" : {
+                "richTextValue" : "<p>Use this HTML Editor to add your own markup.</p>"
+              },
+              "definition" : "community_builder:htmlEditor",
+              "id" : "adea35be-109f-4428-8db6-10c13e48989b",
+              "type" : "component"
+            } ],
             "id" : "eb9f31e4-1251-4510-8654-dc15103defcf",
             "name" : "headerSection",
             "title" : "Theme Header",
