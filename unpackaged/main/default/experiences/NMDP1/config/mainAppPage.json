@@ -1,7 +1,7 @@
 {
   "cmsSettings" : { },
   "currentThemeId" : "5b188e7b-307c-49db-968a-1f46569f3f22",
-  "headMarkup" : null,
+  "headMarkup" : "<style>\n    body, html {\n        background: blue;\n\t}\n    \n  :root {\n    /** Use --dxp-g to make broad changes **/\n    --dxp-g-root: white;\n    --dxp-g-root-contrast: red;\n    --dxp-g-brand: red;\n    --dxp-g-brand-contrast: #fff;\n    --dxp-g-neutral: red;\n    --dxp-g-neutral-contrast: #fff;\n  }\n</style>",
   "id" : "432bab66-4d89-4cf3-865c-f45b79ab2268",
   "isLockerServiceEnabled" : true,
   "isRelaxedCSPLevel" : false,
